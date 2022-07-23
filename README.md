@@ -1,2 +1,2 @@
 Hello, 
-I am currently planning on creating an application to guide any UOA COMPSYS Engineers out there!
+I am currently planning on creating an application to guide UOA Compsys Engineers.
